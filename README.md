@@ -1,13 +1,11 @@
-# Web Programming - Fall 2024
+# Web Programming - Spring 2025
 
 ### Rate My Instructor
 
 Project by:
 
-- Zaid Abdur Rahman 21L-7355
-- Rafay Junaid 21L-7607
-- Hassan Zubair Khan 21L-7718
-- Abdul Hadi 21L-7747
+Mohammad Hadi Ali Bhatti 21L-5426
+Shamyal Mahmood 21L-5473
 
 ## Getting Started
 
